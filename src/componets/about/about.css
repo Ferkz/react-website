@@ -1,0 +1,64 @@
+.nome{
+    font-size: 35px;
+    color: #fff;
+    margin: 10%;
+    padding: auto
+}
+main{
+    margin: 10%;
+}
+.sobre{
+    color: #fff;
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 10%;
+}
+.sobre-h3{
+    font-size: 28px;
+    margin-bottom: 25px;
+}
+.sobre p{
+    margin-bottom: 25px;
+}
+.formacao-h3{
+    font-size: 28px;  
+}
+.grid-row{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 20px;
+    align-items: center;
+    
+}
+.grid-row-1{
+    width: 160px;
+    height: 100px;
+    background-color: #0d6efd;
+    border-radius: 10px;
+    padding: 10px;
+}
+.grid-row-2{
+    width: 160px;
+    height: 100px;
+    background-color: #0d6efd;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.grid-row-3{
+    width: 160px;
+    height: 100px;
+    background-color:#0d6efd;
+    border-radius: 10px;
+    padding: 10px;
+}
+.barra-progresso{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+ 
+}

@@ -1,0 +1,19 @@
+.soft-skill{
+    margin: 10%;
+}
+.soft-skills-title{
+    font-size: 28px;
+    color: #fff;
+}
+.soft-skills{
+    display: flex;
+    gap: 10%;
+    padding: 100px;
+    font-size: 0px;
+    justify-content: center;
+    color:#fff ;
+}
+.javascript, .typescript, .nodejs, .css, .html5, .react{
+    width: 100px;
+    margin-left: 10px;
+}
